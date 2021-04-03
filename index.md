@@ -1,8 +1,7 @@
 ## 欢迎来到我的主页
 
-You can use the [editor on GitHub](https://github.com/Snowdeng13/Snowdeng.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我将在这分享一些有趣，以及我学习的内容。
+如果不喜欢，请见谅，如果喜欢，这将是我的荣幸。
 
 ### Markdown
 
