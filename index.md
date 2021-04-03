@@ -15,6 +15,8 @@ Viper：https://github.com/FunnyWolf/Viper
 
 EHole：https://github.com/ShiHuang-ESec/EHole
 
+7Kb：https://github.com/Snowdeng13/7kbscan-WebPathBrute.git
+
 ### 在线篇
 
 而在很多环境下，也无法避免在线检测的工具，我们可以使用在线工具进行检测
