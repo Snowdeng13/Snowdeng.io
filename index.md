@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my home page
 
 You can use the [editor on GitHub](https://github.com/Snowdeng13/Snowdeng.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
